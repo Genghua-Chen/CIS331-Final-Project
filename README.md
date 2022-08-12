@@ -10,4 +10,6 @@ The result of testing set is 100 accuracy with 0.04 loss.
 Use model to make prediction in real-time.
 
 
-![alt text](https://cdn.lifehack.org/wp-content/uploads/2014/03/Screen-Shot-2014-03-24-at-12.01.14.png.jpg)
+![alt text](https://www.researchgate.net/profile/Mais-Yasen/publication/335841135/figure/fig2/AS:803790450069510@1568649985792/Examples-of-hand-gestures-in-sign-language-Rosalina-et-al-2017-Full-size-DOI.ppm)
+
+
