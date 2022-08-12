@@ -10,6 +10,6 @@ The result of testing set is 100 accuracy with 0.04 loss.
 Use model to make prediction in real-time.
 
 
-![alt text](https://i.pinimg.com/originals/41/64/4f/41644ff5159e2797f38a6f71caeb190b.jpg)
+![alt text](https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/01/79_943.jpeg)
 
 
